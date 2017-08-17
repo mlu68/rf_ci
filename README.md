@@ -1,2 +1,2 @@
 # rf_ci
-Random forsest with confidence intervals
+Random forest with confidence intervals
